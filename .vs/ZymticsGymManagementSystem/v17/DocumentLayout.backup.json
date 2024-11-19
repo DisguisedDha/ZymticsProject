@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dars\\source\\repos\\ZymticsGymManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{471173FA-8364-4AC0-8BE9-101A900514DA}|ZymticsGymManagementSystem\\ZymticsGymManagementSystem.vbproj|c:\\users\\dars\\source\\repos\\zymticsgymmanagementsystem\\zymticsgymmanagementsystem\\instructorloginform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{471173FA-8364-4AC0-8BE9-101A900514DA}|ZymticsGymManagementSystem\\ZymticsGymManagementSystem.vbproj|solutionrelative:zymticsgymmanagementsystem\\instructorloginform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471173FA-8364-4AC0-8BE9-101A900514DA}|ZymticsGymManagementSystem\\ZymticsGymManagementSystem.vbproj|c:\\users\\dars\\source\\repos\\zymticsgymmanagementsystem\\zymticsgymmanagementsystem\\mainmenuform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{471173FA-8364-4AC0-8BE9-101A900514DA}|ZymticsGymManagementSystem\\ZymticsGymManagementSystem.vbproj|solutionrelative:zymticsgymmanagementsystem\\mainmenuform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471173FA-8364-4AC0-8BE9-101A900514DA}|ZymticsGymManagementSystem\\ZymticsGymManagementSystem.vbproj|c:\\users\\dars\\source\\repos\\zymticsgymmanagementsystem\\zymticsgymmanagementsystem\\admindashboardhomeform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{471173FA-8364-4AC0-8BE9-101A900514DA}|ZymticsGymManagementSystem\\ZymticsGymManagementSystem.vbproj|solutionrelative:zymticsgymmanagementsystem\\admindashboardhomeform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471173FA-8364-4AC0-8BE9-101A900514DA}|ZymticsGymManagementSystem\\ZymticsGymManagementSystem.vbproj|c:\\users\\dars\\source\\repos\\zymticsgymmanagementsystem\\zymticsgymmanagementsystem\\instructorloginform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{471173FA-8364-4AC0-8BE9-101A900514DA}|ZymticsGymManagementSystem\\ZymticsGymManagementSystem.vbproj|solutionrelative:zymticsgymmanagementsystem\\instructorloginform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471173FA-8364-4AC0-8BE9-101A900514DA}|ZymticsGymManagementSystem\\ZymticsGymManagementSystem.vbproj|c:\\users\\dars\\source\\repos\\zymticsgymmanagementsystem\\zymticsgymmanagementsystem\\memberloginform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{471173FA-8364-4AC0-8BE9-101A900514DA}|ZymticsGymManagementSystem\\ZymticsGymManagementSystem.vbproj|solutionrelative:zymticsgymmanagementsystem\\memberloginform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471173FA-8364-4AC0-8BE9-101A900514DA}|ZymticsGymManagementSystem\\ZymticsGymManagementSystem.vbproj|c:\\users\\dars\\source\\repos\\zymticsgymmanagementsystem\\zymticsgymmanagementsystem\\adminloginform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{471173FA-8364-4AC0-8BE9-101A900514DA}|ZymticsGymManagementSystem\\ZymticsGymManagementSystem.vbproj|solutionrelative:zymticsgymmanagementsystem\\adminloginform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471173FA-8364-4AC0-8BE9-101A900514DA}|ZymticsGymManagementSystem\\ZymticsGymManagementSystem.vbproj|c:\\users\\dars\\source\\repos\\zymticsgymmanagementsystem\\zymticsgymmanagementsystem\\loadingscreenform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{471173FA-8364-4AC0-8BE9-101A900514DA}|ZymticsGymManagementSystem\\ZymticsGymManagementSystem.vbproj|solutionrelative:zymticsgymmanagementsystem\\loadingscreenform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471173FA-8364-4AC0-8BE9-101A900514DA}|ZymticsGymManagementSystem\\ZymticsGymManagementSystem.vbproj|c:\\users\\dars\\source\\repos\\zymticsgymmanagementsystem\\zymticsgymmanagementsystem\\loadingscreenform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{471173FA-8364-4AC0-8BE9-101A900514DA}|ZymticsGymManagementSystem\\ZymticsGymManagementSystem.vbproj|solutionrelative:zymticsgymmanagementsystem\\loadingscreenform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471173FA-8364-4AC0-8BE9-101A900514DA}|ZymticsGymManagementSystem\\ZymticsGymManagementSystem.vbproj|c:\\users\\dars\\source\\repos\\zymticsgymmanagementsystem\\zymticsgymmanagementsystem\\mainmenuform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{471173FA-8364-4AC0-8BE9-101A900514DA}|ZymticsGymManagementSystem\\ZymticsGymManagementSystem.vbproj|solutionrelative:zymticsgymmanagementsystem\\mainmenuform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471173FA-8364-4AC0-8BE9-101A900514DA}|ZymticsGymManagementSystem\\ZymticsGymManagementSystem.vbproj|c:\\users\\dars\\source\\repos\\zymticsgymmanagementsystem\\zymticsgymmanagementsystem\\memberloginform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{471173FA-8364-4AC0-8BE9-101A900514DA}|ZymticsGymManagementSystem\\ZymticsGymManagementSystem.vbproj|solutionrelative:zymticsgymmanagementsystem\\memberloginform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471173FA-8364-4AC0-8BE9-101A900514DA}|ZymticsGymManagementSystem\\ZymticsGymManagementSystem.vbproj|c:\\users\\dars\\source\\repos\\zymticsgymmanagementsystem\\zymticsgymmanagementsystem\\adminloginform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{471173FA-8364-4AC0-8BE9-101A900514DA}|ZymticsGymManagementSystem\\ZymticsGymManagementSystem.vbproj|solutionrelative:zymticsgymmanagementsystem\\adminloginform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminLoginForm.vb",
+              "DocumentMoniker": "C:\\Users\\Dars\\source\\repos\\ZymticsGymManagementSystem\\ZymticsGymManagementSystem\\AdminLoginForm.vb",
+              "RelativeDocumentMoniker": "ZymticsGymManagementSystem\\AdminLoginForm.vb",
+              "ToolTip": "C:\\Users\\Dars\\source\\repos\\ZymticsGymManagementSystem\\ZymticsGymManagementSystem\\AdminLoginForm.vb",
+              "RelativeToolTip": "ZymticsGymManagementSystem\\AdminLoginForm.vb",
+              "ViewState": "AgIAADIAAAAAAAAAAAAewEQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-16T21:53:28.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MemberLoginForm.vb",
+              "DocumentMoniker": "C:\\Users\\Dars\\source\\repos\\ZymticsGymManagementSystem\\ZymticsGymManagementSystem\\MemberLoginForm.vb",
+              "RelativeDocumentMoniker": "ZymticsGymManagementSystem\\MemberLoginForm.vb",
+              "ToolTip": "C:\\Users\\Dars\\source\\repos\\ZymticsGymManagementSystem\\ZymticsGymManagementSystem\\MemberLoginForm.vb",
+              "RelativeToolTip": "ZymticsGymManagementSystem\\MemberLoginForm.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-16T21:51:23.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InstructorLoginForm.vb",
+              "DocumentMoniker": "C:\\Users\\Dars\\source\\repos\\ZymticsGymManagementSystem\\ZymticsGymManagementSystem\\InstructorLoginForm.vb",
+              "RelativeDocumentMoniker": "ZymticsGymManagementSystem\\InstructorLoginForm.vb",
+              "ToolTip": "C:\\Users\\Dars\\source\\repos\\ZymticsGymManagementSystem\\ZymticsGymManagementSystem\\InstructorLoginForm.vb",
+              "RelativeToolTip": "ZymticsGymManagementSystem\\InstructorLoginForm.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-16T21:13:26.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainMenuForm.vb",
+              "DocumentMoniker": "C:\\Users\\Dars\\source\\repos\\ZymticsGymManagementSystem\\ZymticsGymManagementSystem\\MainMenuForm.vb",
+              "RelativeDocumentMoniker": "ZymticsGymManagementSystem\\MainMenuForm.vb",
+              "ToolTip": "C:\\Users\\Dars\\source\\repos\\ZymticsGymManagementSystem\\ZymticsGymManagementSystem\\MainMenuForm.vb",
+              "RelativeToolTip": "ZymticsGymManagementSystem\\MainMenuForm.vb",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-16T20:31:16.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminDashboardHomeForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Dars\\source\\repos\\ZymticsGymManagementSystem\\ZymticsGymManagementSystem\\AdminDashboardHomeForm.vb",
+              "RelativeDocumentMoniker": "ZymticsGymManagementSystem\\AdminDashboardHomeForm.vb",
+              "ToolTip": "C:\\Users\\Dars\\source\\repos\\ZymticsGymManagementSystem\\ZymticsGymManagementSystem\\AdminDashboardHomeForm.vb [Design]",
+              "RelativeToolTip": "ZymticsGymManagementSystem\\AdminDashboardHomeForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-14T20:32:41.687Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InstructorLoginForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Dars\\source\\repos\\ZymticsGymManagementSystem\\ZymticsGymManagementSystem\\InstructorLoginForm.vb",
+              "RelativeDocumentMoniker": "ZymticsGymManagementSystem\\InstructorLoginForm.vb",
+              "ToolTip": "C:\\Users\\Dars\\source\\repos\\ZymticsGymManagementSystem\\ZymticsGymManagementSystem\\InstructorLoginForm.vb [Design]",
+              "RelativeToolTip": "ZymticsGymManagementSystem\\InstructorLoginForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-14T20:27:50.374Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MemberLoginForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Dars\\source\\repos\\ZymticsGymManagementSystem\\ZymticsGymManagementSystem\\MemberLoginForm.vb",
+              "RelativeDocumentMoniker": "ZymticsGymManagementSystem\\MemberLoginForm.vb",
+              "ToolTip": "C:\\Users\\Dars\\source\\repos\\ZymticsGymManagementSystem\\ZymticsGymManagementSystem\\MemberLoginForm.vb [Design]",
+              "RelativeToolTip": "ZymticsGymManagementSystem\\MemberLoginForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-14T20:27:32.682Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminLoginForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Dars\\source\\repos\\ZymticsGymManagementSystem\\ZymticsGymManagementSystem\\AdminLoginForm.vb",
+              "RelativeDocumentMoniker": "ZymticsGymManagementSystem\\AdminLoginForm.vb",
+              "ToolTip": "C:\\Users\\Dars\\source\\repos\\ZymticsGymManagementSystem\\ZymticsGymManagementSystem\\AdminLoginForm.vb [Design]",
+              "RelativeToolTip": "ZymticsGymManagementSystem\\AdminLoginForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-14T20:27:17.115Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainMenuForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Dars\\source\\repos\\ZymticsGymManagementSystem\\ZymticsGymManagementSystem\\MainMenuForm.vb",
+              "RelativeDocumentMoniker": "ZymticsGymManagementSystem\\MainMenuForm.vb",
+              "ToolTip": "C:\\Users\\Dars\\source\\repos\\ZymticsGymManagementSystem\\ZymticsGymManagementSystem\\MainMenuForm.vb [Design]",
+              "RelativeToolTip": "ZymticsGymManagementSystem\\MainMenuForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-14T20:23:17.482Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoadingScreenForm.vb",
+              "DocumentMoniker": "C:\\Users\\Dars\\source\\repos\\ZymticsGymManagementSystem\\ZymticsGymManagementSystem\\LoadingScreenForm.vb",
+              "RelativeDocumentMoniker": "ZymticsGymManagementSystem\\LoadingScreenForm.vb",
+              "ToolTip": "C:\\Users\\Dars\\source\\repos\\ZymticsGymManagementSystem\\ZymticsGymManagementSystem\\LoadingScreenForm.vb",
+              "RelativeToolTip": "ZymticsGymManagementSystem\\LoadingScreenForm.vb",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwCoAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-14T19:32:44.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoadingScreenForm.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Dars\\source\\repos\\ZymticsGymManagementSystem\\ZymticsGymManagementSystem\\LoadingScreenForm.vb",
+              "RelativeDocumentMoniker": "ZymticsGymManagementSystem\\LoadingScreenForm.vb",
+              "ToolTip": "C:\\Users\\Dars\\source\\repos\\ZymticsGymManagementSystem\\ZymticsGymManagementSystem\\LoadingScreenForm.vb [Design]",
+              "RelativeToolTip": "ZymticsGymManagementSystem\\LoadingScreenForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-14T19:31:19.663Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
